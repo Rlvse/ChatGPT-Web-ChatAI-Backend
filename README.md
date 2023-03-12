@@ -2,9 +2,10 @@
 
 **⚡** **已接入最新gpt-3.5-turbo模型**
 
-* 码云仓库地址：``https://gitee.com/JN910-14/ChatGPT-Web-ChatAI-Backend``
-
-* web端地址：``https://github.com/Rlvse/ChatGPT-Web-ChatAI``
+```
+码云仓库地址：https://gitee.com/JN910-14/ChatGPT-Web-ChatAI-Backend
+web端地址：https://github.com/Rlvse/ChatGPT-Web-ChatAI
+```
 
 ## 🔧 环境要求
 
@@ -39,6 +40,6 @@
 ![5](./README.assets/5.jpg)
 
 ```https://github.com/Rlvse/ChatGPT-miniapp
-https://gitee.com/JN910-14/ChatGPT-miniapp
-https://github.com/Rlvse/ChatGPT-miniapp
+码云版本：https://gitee.com/JN910-14/ChatGPT-miniapp
+github版本：https://github.com/Rlvse/ChatGPT-miniapp
 ```
